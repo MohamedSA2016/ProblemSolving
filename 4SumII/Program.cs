@@ -1,15 +1,12 @@
 ﻿using System;
 
-namespace TwoSum
+namespace _4SumII
 {
     class Program
     {
         static void Main(string[] args)
         {
-           
+            Console.WriteLine("Hello World!");
         }
-
-       
-   
     }
 }
